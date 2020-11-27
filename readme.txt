@@ -50,7 +50,7 @@ Upload your published banner files to a webserver.
 The banners can be placed on a webpage with the "iframe" HTML markup. See sample code below:
 
 <iframe src="300x600/300x600.html" frameborder="0" scrolling="no" width="300" height="600" style="border:solid 1px #999;"></iframe>
-
+https://thanhtungtav4.github.io/Digital-Marketting-Banners-GWD/Main_HTML/
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
